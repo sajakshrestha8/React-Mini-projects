@@ -1,0 +1,8 @@
+.input-value{
+    height: 1.2rem;
+    padding: 14px;
+    width: calc(100% - 29px);
+    border-radius: 8px;
+    border:  1px solid rgb(181, 178, 178);
+    margin-bottom: 10px;
+}

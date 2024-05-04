@@ -1,0 +1,48 @@
+.whole-wrapper{
+    display: grid;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    margin-top: 8rem;
+    height: 20rem;
+}
+
+.btn-wrapper{
+    margin-left: -5rem;
+}
+
+.start{
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: green;
+}
+
+.stop{
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: red;
+}
+
+.reset{
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: yellow    ;
+}
+
+.start:active{
+    background-color: rgb(0, 145, 0);
+}
+
+.stop:active{
+    background-color: rgb(255, 47, 47);
+}
+
+.reset:active{
+    background-color: rgb(173, 173, 3);
+}

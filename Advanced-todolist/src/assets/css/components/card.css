@@ -1,0 +1,9 @@
+.output-card{
+    width: calc(100%-10px);
+    border: 1px solid rgb(130, 130, 130);
+    border-radius: 8px;
+    display: grid;
+    align-items: center;
+    grid-template-columns: 10px 1fr 100px 100px;
+    padding: 5px;
+}
