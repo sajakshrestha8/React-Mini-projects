@@ -14,3 +14,12 @@ Project 2 => Timer
 This is the timer that can start stop and reset the time
 
 https://sajak-timer.netlify.app/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project 3 => Calculator
+
+This is the calculator that can perform simple calculation that can perform by a calculator
+
+https://sajak-timer.netlify.app/
+
