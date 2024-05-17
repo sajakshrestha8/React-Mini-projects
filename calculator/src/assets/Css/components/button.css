@@ -1,0 +1,10 @@
+input{
+    padding: 10px;
+    background-color: #d2cfcf;
+    border-radius: 8px;
+    margin: 1px;
+    cursor: pointer;
+    text-align: center;
+    width: 32px;
+    height: 32px;
+}
