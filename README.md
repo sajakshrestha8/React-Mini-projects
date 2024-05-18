@@ -21,5 +21,5 @@ Project 3 => Calculator
 
 This is the calculator that can perform simple calculation that can perform by a calculator
 
-https://sajak-timer.netlify.app/
+[https://sajak-timer.netlify.app/](https://sajak-calculator.netlify.app)
 
